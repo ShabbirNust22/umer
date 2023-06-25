@@ -13,7 +13,7 @@ from PIL import Image
 from sklearn.pipeline import Pipeline
 import pickle 
 
-st.set_page_config(page_title="An Intelligent TL Faults Analysis",page_icon="🧊")
+st.set_page_config(page_title="Smart Grid Technology An Intelligent TL Faults Analysis",page_icon="🧊")
 ################################################################################### M A I N    P A G E ############################
 Side=st.sidebar.selectbox("PROJECT DETAILS: ",('Main Page','Data Visualizations','Prediction Results', 'Real Time Predictions','Shabbir'))
 if Side=="Main Page":
