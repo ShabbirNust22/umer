@@ -31,7 +31,7 @@ if Side=="Main Page":
     """
     )
     #image = Image.open('Circuit.png')
-    image = Image.open('fault.jfif')
+    image = Image.open('fault.jpg')
     st.image(image, caption='')
 
     #image_1 = Image.open('fault.jfif')
