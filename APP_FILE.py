@@ -26,7 +26,7 @@ if Side=="Main Page":
         """
         PROJECT DETAILS 
         **👈 Select a demo from the sidebar** to visualize the Results!
-        this is the test
+        this is the test. This is test 2
         ### Circuit Diagram:
     """
     )
