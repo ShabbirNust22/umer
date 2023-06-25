@@ -30,8 +30,8 @@ if Side=="Main Page":
         ### Circuit Diagram:
     """
     )
-    #image = Image.open('Circuit.png')
-    image = Image.open('signal.png')
+    image = Image.open('Circuit.png')
+    #image = Image.open('signal.png')
     st.image(image, caption='')
 
     #image_1 = Image.open('fault.jfif')
