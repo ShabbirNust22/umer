@@ -19,7 +19,7 @@ Side=st.sidebar.selectbox("PROJECT DETAILS: ",('Main Page','Data Visualizations'
 if Side=="Main Page":
     #st.markdown("### Select Demo")
     st.write('')
-    st.write("# An Intelligent Web Dashboard for Transmission Line Faults Analysis")
+    st.write("# Smart Grid Technology An Intelligent TL Faults Analysis")
     #st.markdown("# Precious Metals Price Predictions")
     #st.sidebar.header("# Metals Prediction Plots")
     st.markdown(
